@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Aplicando conceitos de responsividade
+Aplicando conceitos de responsividade, variáveis e animações no css
 
 ## 🔖 Layout
 
